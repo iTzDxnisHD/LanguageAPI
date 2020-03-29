@@ -15,6 +15,7 @@
     "message.player_not_exists": "§c{0} was not found.",
 
     "languageApi.reloaded": "{PREFIX}LanguageAPI was reloaded.",
-    "languageApi.wasUpdated": "{PREFIX}Language was updated to §f{0}§7."
+    "languageApi.wasUpdated": "{PREFIX}Language was updated to §f{0}§7.",
+    "languageApi.test": "{PREFIX}This is a test."
   }
 }

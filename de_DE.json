@@ -15,6 +15,7 @@
     "message.player_not_exists": "§c{0} ist kein gültiger Spieler.",
 
     "languageApi.reloaded": "{PREFIX}LanguageAPI was reloaded.",
-    "languageApi.wasUpdated": "{PREFIX}Sprache wurde auf §f{0} §7gesetzt."
+    "languageApi.wasUpdated": "{PREFIX}Sprache wurde auf §f{0} §7gesetzt.",
+    "languageApi.test": "{PREFIX}Dies ist eine test-nachricht."
   }
 }
