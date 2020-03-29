@@ -1,0 +1,20 @@
+{
+  "PREFIX": "§eStimoMC §8» §7",
+  "localeCode": "de_DE",
+  "name": "Deutsch",
+
+  "values": {
+    "ui.text.confirmation": "§l§eBestätigung§r",
+    "ui.text.select_option": "§3Bitte wähle eine Option aus.",
+    "ui.text.select_player": "§3Bitte wähle einen Spieler aus.",
+    "ui.text.input_player": "§3Bitte gebe einen Spieler an.",
+
+    "ui.button.close": "§cSchließen",
+    "ui.button.back": "§cZurück",
+
+    "message.player_not_exists": "§c{0} ist kein gültiger Spieler.",
+
+    "languageApi.reloaded": "{PREFIX}LanguageAPI was reloaded.",
+    "languageApi.wasUpdated": "{PREFIX}Sprache wurde auf §f{0} §7gesetzt."
+  }
+}
