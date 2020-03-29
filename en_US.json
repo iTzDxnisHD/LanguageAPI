@@ -1,0 +1,20 @@
+{
+  "PREFIX": "§eStimoMC §8» §7",
+  "localeCode": "en_US",
+  "name": "English",
+
+  "values": {
+    "ui.text.confirmation": "§l§eConfirm§r",
+    "ui.text.select_option": "§3Please select an option.",
+    "ui.text.select_player": "§3Please select a player.",
+    "ui.text.input_player": "§3Please input a player.",
+
+    "ui.button.close": "§cClose",
+    "ui.button.back": "§cBack",
+
+    "message.player_not_exists": "§c{0} was not found.",
+
+    "languageApi.reloaded": "{PREFIX}LanguageAPI was reloaded.",
+    "languageApi.wasUpdated": "{PREFIX}Language was updated to §f{0}§7."
+  }
+}
