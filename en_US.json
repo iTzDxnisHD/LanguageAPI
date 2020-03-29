@@ -4,10 +4,13 @@
   "name": "English",
 
   "values": {
+    "ui.title.selectLanguage": "Language",
+
     "ui.text.confirmation": "§l§eConfirm§r",
     "ui.text.select_option": "§3Please select an option.",
     "ui.text.select_player": "§3Please select a player.",
     "ui.text.input_player": "§3Please input a player.",
+    "ui.text.selectLanguage": "§3Select your Language.",
 
     "ui.button.close": "§cClose",
     "ui.button.back": "§cBack",

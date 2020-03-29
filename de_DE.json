@@ -4,10 +4,13 @@
   "name": "Deutsch",
 
   "values": {
+    "ui.title.selectLanguage": "Sprache",
+
     "ui.text.confirmation": "§l§eBestätigung§r",
     "ui.text.select_option": "§3Bitte wähle eine Option aus.",
     "ui.text.select_player": "§3Bitte wähle einen Spieler aus.",
     "ui.text.input_player": "§3Bitte gebe einen Spieler an.",
+    "ui.text.selectLanguage": "§3Bitte wähle deine Sprache aus.",
 
     "ui.button.close": "§cSchließen",
     "ui.button.back": "§cZurück",
