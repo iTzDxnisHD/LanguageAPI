@@ -6,29 +6,49 @@
   "values": {
     "raw.players": "Spieler",
     "raw.coins": "Coins",
+    "raw.coin": "Coin",
     "raw.kills": "Kills",
+
+    "coinmanager.mustBeNumeric": "{PREFIX}§4{0}§c isn't a number§7.",
+    "coinmanager.yourCoins": "{PREFIX}Du hast §6{0} {1}§7.",
+    "coinmanager.setCoins": "{PREFIX}§b{0}'s §7coins wurden auf §6{1}§7 gesetzt.",
+    "coinmanager.addCoins": "{PREFIX}Du hast §b{0} {1} §b{2}§7 gegeben.",
+    "coinmanager.removeCoins": "{PREFIX}Du hast §b{0} {1}§7 von §b{2}§7 entfernt.",
+
+    "message.serverIsRestarting": "{PREFIX}Dieser Server restartet gerade.",
+    "message.playerNotFound": "{PREFIX}Player not found.",
 
     "scoreboard.starting.soon": "§cWarte auf Spieler  ",
     "scoreboard.starting.in": "§aStart in {0}",
     "scoreboard.playersLeft": "§c{0} übrige spieler.",
 
     "ui.title.selectLanguage": "Sprache",
+    "ui.title.enchanting": "Verzaubern",
 
     "ui.text.confirmation": "§l§eBestätigung§r",
     "ui.text.select_option": "§3Bitte wähle eine Option aus.",
     "ui.text.select_player": "§3Bitte wähle einen Spieler aus.",
     "ui.text.input_player": "§3Bitte gebe einen Spieler an.",
     "ui.text.selectLanguage": "§3Bitte wähle deine Sprache aus.",
+    "ui.text.yourCoins": "§9Deine Coins §c{0}",
 
     "ui.button.close": "§cSchließen",
     "ui.button.back": "§cZurück",
 
+    "getdown.ui.error": "§4Error\n§7{0} doesn't exists.",
+    "getdown.ui.notEnoughCoins": "§c{0}\n§c§oNot enough coins.",
+    "getdown.ui.price": "§a{0}\n§6§o{1} Coins",
+
     "message.player_not_exists": "§c{0} ist kein gültiger Spieler.",
 
-    "languageApi.reloaded": "{PREFIX}LanguageAPI was reloaded.",
+    "languageApi.reloaded": "{PREFIX}LanguageAPI wurde neu geladen.",
     "languageApi.wasUpdated": "{PREFIX}Sprache wurde auf §f{0} §7gesetzt.",
     "languageApi.test": "{PREFIX}Dies ist eine test-nachricht.",
 
-    "betterSpectator.newSpectating": "§6Du schaust nun §b{0}§6 zu."
+    "item.start": "§eStart",
+    "item.backToHub": "§4Back to hub",
+    "item.stats": "§bStats",
+
+    "betterSpectator.newSpectating": "{PREFIX}§6Du schaust nun §b{0}§6 zu."
   }
 }
