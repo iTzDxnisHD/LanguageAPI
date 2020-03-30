@@ -4,6 +4,13 @@
   "name": "English",
 
   "values": {
+    "raw.players": "Players",
+    "raw.coins": "Coins",
+    "raw.kills": "Kills",
+
+    "scoreboard.starting.soon": "§cWaiting for players  ",
+    "scoreboard.starting.in": "§aStarting in {0}",
+    "scoreboard.playersLeft": "§c{0} players left.",
     "ui.title.selectLanguage": "Language",
 
     "ui.text.confirmation": "§l§eConfirm§r",
@@ -19,6 +26,8 @@
 
     "languageApi.reloaded": "{PREFIX}LanguageAPI was reloaded.",
     "languageApi.wasUpdated": "{PREFIX}Language was updated to §f{0}§7.",
-    "languageApi.test": "{PREFIX}This is a test."
+    "languageApi.test": "{PREFIX}This is a test.",
+
+    "betterSpectator.newSpectating": "§6You are now spectating §b{0}§6."
   }
 }
