@@ -1,54 +1,70 @@
 {
-  "PREFIX": "§eStimoMC §8» §7",
-  "localeCode": "de_DE",
-  "name": "Deutsch",
+	"PREFIX": "§eStimoMC §8» §7",
+	"localeCode": "de_DE",
+	"name": "Deutsch",
 
-  "values": {
-    "raw.players": "Spieler",
-    "raw.coins": "Coins",
-    "raw.coin": "Coin",
-    "raw.kills": "Kills",
+	"values": {
+		"raw.players": "Spieler",
+		"raw.coins": "Coins",
+		"raw.coin": "Coin",
+		"raw.kills": "Kills",
 
-    "coinmanager.mustBeNumeric": "{PREFIX}§4{0}§c isn't a number§7.",
-    "coinmanager.yourCoins": "{PREFIX}Du hast §6{0} {1}§7.",
-    "coinmanager.setCoins": "{PREFIX}§b{0}'s §7coins wurden auf §6{1}§7 gesetzt.",
-    "coinmanager.addCoins": "{PREFIX}Du hast §b{0} {1} §b{2}§7 gegeben.",
-    "coinmanager.removeCoins": "{PREFIX}Du hast §b{0} {1}§7 von §b{2}§7 entfernt.",
+		"coinmanager.mustBeNumeric": "{PREFIX}§4{0}§c isn't a number§7.",
+		"coinmanager.yourCoins": "{PREFIX}Du hast §6{0} {1}§7.",
+		"coinmanager.setCoins": "{PREFIX}§b{0}'s §7coins wurden auf §6{1}§7 gesetzt.",
+		"coinmanager.addCoins": "{PREFIX}Du hast §b{0} {1} §b{2}§7 gegeben.",
+		"coinmanager.removeCoins": "{PREFIX}Du hast §b{0} {1}§7 von §b{2}§7 entfernt.",
 
-    "message.serverIsRestarting": "{PREFIX}Dieser Server restartet gerade.",
-    "message.playerNotFound": "{PREFIX}Player not found.",
+		"message.serverIsRestarting": "{PREFIX}§cDieser Server restartet gerade.",
+		"message.playerNotFound": "{PREFIX}§cSpieler existiert nicht.",
+		"message.onlyPlayers": "{PREFIX}§cOnly for players.",
+		"message.groupNotExists": "{PREFIX}§cEine Gruppe mit den Namen §f{0}§c existiert nicht!",
+		"message.groupUpdateKick": "§eYour Group was changed to §6{0}§e!\n§a§lPlease rejoin!",
+		"message.groupUpdate": "{PREFIX}§b{0}'s§7 group was changed to §f{1}§7!",
+		"message.onlyNickInLobby": "{PREFIX}§cYou cannot nick yourself in games!",
+		"message.nickEnabled": "{PREFIX}Nick was§a enabled§7!",
+		"message.nickDisabled": "{PREFIX}Nick was§c disabled§7!",
+		"message.plusColor": "{PREFIX}Deine Plus-Farbe sieht nun so aus: {0}+§r",
+		"message.minusColor": "{PREFIX}Deine Minus-Farbe sieht nun so aus: {0}-§r",
 
-    "scoreboard.starting.soon": "§cWarte auf Spieler  ",
-    "scoreboard.starting.in": "§aStart in {0}",
-    "scoreboard.playersLeft": "§c{0} übrige spieler.",
+		"scoreboard.starting.soon": "§cWarte auf Spieler  ",
+		"scoreboard.starting.in": "§aStart in {0}",
+		"scoreboard.playersLeft": "§c{0} übrige spieler.",
 
-    "ui.title.selectLanguage": "Sprache",
-    "ui.title.enchanting": "Verzaubern",
+		"ui.title.selectLanguage": "Sprache",
+		"ui.title.enchanting": "Verzaubern",
+		"ui.title.teleporter": "Teleporter",
 
-    "ui.text.confirmation": "§l§eBestätigung§r",
-    "ui.text.select_option": "§3Bitte wähle eine Option aus.",
-    "ui.text.select_player": "§3Bitte wähle einen Spieler aus.",
-    "ui.text.input_player": "§3Bitte gebe einen Spieler an.",
-    "ui.text.selectLanguage": "§3Bitte wähle deine Sprache aus.",
-    "ui.text.yourCoins": "§9Deine Coins §c{0}",
+		"ui.text.confirmation": "§l§eBestätigung§r",
+		"ui.text.select_option": "§3Bitte wähle eine Option aus.",
+		"ui.text.select_player": "§3Bitte wähle einen Spieler aus.",
+		"ui.text.input_player": "§3Bitte gebe einen Spieler an.",
+		"ui.text.selectLanguage": "§3Bitte wähle deine Sprache aus.",
+		"ui.text.chooseColor": "§3Wähle deine gewünschte Farbe aus.",
+		"ui.text.yourCoins": "§9Deine Coins §c{0}",
 
-    "ui.button.close": "§cSchließen",
-    "ui.button.back": "§cZurück",
+		"ui.button.close": "§cSchließen",
+		"ui.button.back": "§cZurück",
+		"ui.button.selectPlus": "Plus ändern",
+		"ui.button.selectMinus": "Minus ändern",
 
-    "getdown.ui.error": "§4Error\n§7{0} doesn't exists.",
-    "getdown.ui.notEnoughCoins": "§c{0}\n§c§oNot enough coins.",
-    "getdown.ui.price": "§a{0}\n§6§o{1} Coins",
+		"getdown.ui.error": "§4Error\n§7{0} doesn't exists.",
+		"getdown.ui.notEnoughCoins": "§c{0}\n§c§oNot enough coins.",
+		"getdown.ui.price": "§a{0}\n§6§o{1} Coins",
 
-    "message.player_not_exists": "§c{0} ist kein gültiger Spieler.",
+		"message.player_not_exists": "§c{0} ist kein gültiger Spieler.",
 
-    "languageApi.reloaded": "{PREFIX}LanguageAPI wurde neu geladen.",
-    "languageApi.wasUpdated": "{PREFIX}Sprache wurde auf §f{0} §7gesetzt.",
-    "languageApi.test": "{PREFIX}Dies ist eine test-nachricht.",
+		"languageApi.reloaded": "{PREFIX}LanguageAPI wurde neu geladen.",
+		"languageApi.wasUpdated": "{PREFIX}Sprache wurde auf §f{0} §7gesetzt.",
+		"languageApi.test": "{PREFIX}Dies ist eine test-nachricht.",
 
-    "item.start": "§eStart",
-    "item.backToHub": "§4Back to hub",
-    "item.stats": "§bStats",
+		"item.start": "§eStart",
+		"item.backToHub": "§4Back to hub",
+		"item.stats": "§bStats",
 
-    "betterSpectator.newSpectating": "{PREFIX}§6Du schaust nun §b{0}§6 zu."
-  }
+		"betterSpectator.newSpectating": "{PREFIX}§6Du schaust nun §b{0}§6 zu.",
+
+        "lobby.flyWasEnabled": "{PREFIX}Fly was enabled.",
+        "lobby.flyWasDisabled": "{PREFIX}Fly was disabled."
+	}
 }

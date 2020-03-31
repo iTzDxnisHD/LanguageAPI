@@ -1,54 +1,66 @@
 {
-  "PREFIX": "§eStimoMC §8» §7",
-  "localeCode": "en_US",
-  "name": "English",
+	"PREFIX": "§eStimoMC §8» §7",
+	"localeCode": "en_US",
+	"name": "English",
 
-  "values": {
-    "raw.players": "Spieler",
-    "raw.coins": "Coins",
-    "raw.coin": "Coin",
-    "raw.kills": "Kills",
+	"values": {
+		"raw.players": "Spieler",
+		"raw.coins": "Coins",
+		"raw.coin": "Coin",
+		"raw.kills": "Kills",
 
-    "coinmanager.mustBeNumeric": "{PREFIX}§4{0}§c isn't a number§7.",
-    "coinmanager.yourCoins": "{PREFIX}You have §6{0} {1}§7.",
-    "coinmanager.setCoins": "{PREFIX}§b{0}'s §7coins was set to §6{1}§7.",
-    "coinmanager.addCoins": "{PREFIX}You gave §b{0} {1} §7to §b{2}§7.",
-    "coinmanager.removeCoins": "{PREFIX}You removed §6{0} {1} §7from §b{2}§7.",
+		"coinmanager.mustBeNumeric": "{PREFIX}§4{0}§c isn't a number§7.",
+		"coinmanager.yourCoins": "{PREFIX}You have §6{0} {1}§7.",
+		"coinmanager.setCoins": "{PREFIX}§b{0}'s §7coins was set to §6{1}§7.",
+		"coinmanager.addCoins": "{PREFIX}You gave §b{0} {1} §7to §b{2}§7.",
+		"coinmanager.removeCoins": "{PREFIX}You removed §6{0} {1} §7from §b{2}§7.",
 
-    "message.serverIsRestarting": "{PREFIX}This server is restarting.",
-    "message.playerNotFound": "{PREFIX}Player not found.",
+		"message.serverIsRestarting": "{PREFIX}This server is restarting.",
+		"message.playerNotFound": "{PREFIX}Player not found.",
+		"message.onlyPlayers": "{PREFIX}§cOnly for players.",
+		"message.groupNotExists": "{PREFIX}§cNo group named §f{0}§7 found!",
+		"message.groupUpdateKick": "§eYour Group was changed to §6{0}§e!\n§a§lPlease rejoin!",
+		"message.groupUpdate": "{PREFIX}§b{0}'s§7 group was changed to §f{1}§7!",
+		"message.onlyNickInLobby": "{PREFIX}§cYou cannot nick yourself in games!",
+		"message.nickEnabled": "{PREFIX}Nick was§a enabled§7!",
+		"message.nickDisabled": "{PREFIX}Nick was§c disabled§7!",
+		"message.plusColor": "{PREFIX}Plus-Color was updated to {0}+§r",
+		"message.minusColor": "{PREFIX}Minus-Color was updated to {0}-§r",
 
-    "scoreboard.starting.soon": "§cWaiting for players  ",
-    "scoreboard.starting.in": "§aStarting in {0}",
-    "scoreboard.playersLeft": "§c{0} players left.",
+		"scoreboard.starting.soon": "§cWaiting for players  ",
+		"scoreboard.starting.in": "§aStarting in {0}",
+		"scoreboard.playersLeft": "§c{0} players left.",
 
-    "ui.title.selectLanguage": "Language",
-    "ui.title.enchanting": "Enchant",
+		"ui.title.selectLanguage": "Language",
+		"ui.title.enchanting": "Enchant",
 
-    "ui.text.confirmation": "§l§eConfirm§r",
-    "ui.text.select_option": "§3Please select an option.",
-    "ui.text.select_player": "§3Please select a player.",
-    "ui.text.input_player": "§3Please input a player.",
-    "ui.text.selectLanguage": "§3Select your Language.",
-    "ui.text.yourCoins": "§9Your Coins §c{0}",
+		"ui.text.confirmation": "§l§eConfirm§r",
+		"ui.text.select_option": "§3Please select an option.",
+		"ui.text.select_player": "§3Please select a player.",
+		"ui.text.input_player": "§3Please input a player.",
+		"ui.text.selectLanguage": "§3Select your Language.",
+		"ui.text.chooseColor": "§3Select a color.",
+		"ui.text.yourCoins": "§9Your Coins §c{0}",
 
-    "ui.button.close": "§cClose",
-    "ui.button.back": "§cBack",
+		"ui.button.close": "§cClose",
+		"ui.button.back": "§cBack",
+		"ui.button.selectPlus": "Select Plus",
+		"ui.button.selectMinus": "Select Minus",
 
-    "getdown.ui.error": "§4Error\n§7{0} doesn't exists.",
-    "getdown.ui.notEnoughCoins": "§c{0}\n§c§oNot enough coins.",
-    "getdown.ui.price": "§a{0}\n§6§o{1} Coins",
+		"getdown.ui.error": "§4Error\n§7{0} doesn't exists.",
+		"getdown.ui.notEnoughCoins": "§c{0}\n§c§oNot enough coins.",
+		"getdown.ui.price": "§a{0}\n§6§o{1} Coins",
 
-    "message.player_not_exists": "§c{0} was not found.",
+		"message.player_not_exists": "§c{0} was not found.",
 
-    "languageApi.reloaded": "{PREFIX}LanguageAPI was reloaded.",
-    "languageApi.wasUpdated": "{PREFIX}Language was updated to §f{0}§7.",
-    "languageApi.test": "{PREFIX}This is a test.",
+		"languageApi.reloaded": "{PREFIX}LanguageAPI was reloaded.",
+		"languageApi.wasUpdated": "{PREFIX}Language was updated to §f{0}§7.",
+		"languageApi.test": "{PREFIX}This is a test.",
 
-    "item.start": "§eStart",
-    "item.backToHub": "§4Back to hub",
-    "item.stats": "§bStats",
+		"item.start": "§eStart",
+		"item.backToHub": "§4Back to hub",
+		"item.stats": "§bStats",
 
-    "betterSpectator.newSpectating": "§6You are now spectating §b{0}§6."
-  }
+		"betterSpectator.newSpectating": "§6You are now spectating §b{0}§6."
+	}
 }
