@@ -59,7 +59,7 @@
 		"languageApi.test": "{PREFIX}Dies ist eine test-nachricht.",
 
 		"item.start": "§eStart",
-		"item.backToHub": "§4Zurück zur Lobby",
+		"item.backToHub": "§4Back to Lobby",
 		"item.stats": "§bStats",
 
 		"betterSpectator.newSpectating": "{PREFIX}§6Du schaust nun §b{0}§6 zu.",
