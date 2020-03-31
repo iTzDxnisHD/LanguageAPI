@@ -4,7 +4,7 @@
 	"name": "English",
 
 	"values": {
-		"raw.players": "Spieler",
+		"raw.players": "Players",
 		"raw.coins": "Coins",
 		"raw.coin": "Coin",
 		"raw.kills": "Kills",
@@ -33,6 +33,7 @@
 
 		"ui.title.selectLanguage": "Language",
 		"ui.title.enchanting": "Enchant",
+		"ui.title.teleporter": "Teleporter",
 
 		"ui.text.confirmation": "§l§eConfirm§r",
 		"ui.text.select_option": "§3Please select an option.",
@@ -61,6 +62,9 @@
 		"item.backToHub": "§4Back to hub",
 		"item.stats": "§bStats",
 
-		"betterSpectator.newSpectating": "§6You are now spectating §b{0}§6."
+		"betterSpectator.newSpectating": "§6You are now spectating §b{0}§6.",
+
+		"lobby.flyWasEnabled": "{PREFIX}Fly was enabled.",
+		"lobby.flyWasDisabled": "{PREFIX}Fly was disabled."
 	}
 }

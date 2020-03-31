@@ -9,7 +9,7 @@
 		"raw.coin": "Coin",
 		"raw.kills": "Kills",
 
-		"coinmanager.mustBeNumeric": "{PREFIX}§4{0}§c isn't a number§7.",
+		"coinmanager.mustBeNumeric": "{PREFIX}§4{0}§c ist keine gültige Nummer§7.",
 		"coinmanager.yourCoins": "{PREFIX}Du hast §6{0} {1}§7.",
 		"coinmanager.setCoins": "{PREFIX}§b{0}'s §7coins wurden auf §6{1}§7 gesetzt.",
 		"coinmanager.addCoins": "{PREFIX}Du hast §b{0} {1} §b{2}§7 gegeben.",
@@ -17,13 +17,13 @@
 
 		"message.serverIsRestarting": "{PREFIX}§cDieser Server restartet gerade.",
 		"message.playerNotFound": "{PREFIX}§cSpieler existiert nicht.",
-		"message.onlyPlayers": "{PREFIX}§cOnly for players.",
+		"message.onlyPlayers": "{PREFIX}§cNur für Spieler.",
 		"message.groupNotExists": "{PREFIX}§cEine Gruppe mit den Namen §f{0}§c existiert nicht!",
-		"message.groupUpdateKick": "§eYour Group was changed to §6{0}§e!\n§a§lPlease rejoin!",
-		"message.groupUpdate": "{PREFIX}§b{0}'s§7 group was changed to §f{1}§7!",
-		"message.onlyNickInLobby": "{PREFIX}§cYou cannot nick yourself in games!",
-		"message.nickEnabled": "{PREFIX}Nick was§a enabled§7!",
-		"message.nickDisabled": "{PREFIX}Nick was§c disabled§7!",
+		"message.groupUpdateKick": "§eDeine Gruppe wurde geänert zu: §6{0}§e!\n§a§lBitte Joine erneut!",
+		"message.groupUpdate": "{PREFIX}§b{0}'s§7 hat die gruppe §f{1}§7 bekommen!",
+		"message.onlyNickInLobby": "{PREFIX}§cDu kannst dich nur in der Lobby nicken!",
+		"message.nickEnabled": "{PREFIX}Nick wurde§a Aktiviert§7!",
+		"message.nickDisabled": "{PREFIX}Nick wurde§c Deaktiviert§7!",
 		"message.plusColor": "{PREFIX}Deine Plus-Farbe sieht nun so aus: {0}+§r",
 		"message.minusColor": "{PREFIX}Deine Minus-Farbe sieht nun so aus: {0}-§r",
 
@@ -59,12 +59,12 @@
 		"languageApi.test": "{PREFIX}Dies ist eine test-nachricht.",
 
 		"item.start": "§eStart",
-		"item.backToHub": "§4Back to hub",
+		"item.backToHub": "§4Zurück zur Lobby",
 		"item.stats": "§bStats",
 
 		"betterSpectator.newSpectating": "{PREFIX}§6Du schaust nun §b{0}§6 zu.",
 
-        "lobby.flyWasEnabled": "{PREFIX}Fly was enabled.",
-        "lobby.flyWasDisabled": "{PREFIX}Fly was disabled."
+        "lobby.flyWasEnabled": "{PREFIX}Fly wurde Aktiviert.",
+        "lobby.flyWasDisabled": "{PREFIX}Fly wurde Deaktiviert."
 	}
 }
