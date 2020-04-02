@@ -52,8 +52,6 @@
 		"getdown.ui.notEnoughCoins": "§c{0}\n§c§oNot enough coins.",
 		"getdown.ui.price": "§a{0}\n§6§o{1} Coins",
 
-		"message.player_not_exists": "§c{0} ist kein gültiger Spieler.",
-
 		"languageApi.reloaded": "{PREFIX}LanguageAPI wurde neu geladen.",
 		"languageApi.wasUpdated": "{PREFIX}Sprache wurde auf §f{0} §7gesetzt.",
 		"languageApi.test": "{PREFIX}Dies ist eine test-nachricht.",
@@ -64,7 +62,12 @@
 
 		"betterSpectator.newSpectating": "{PREFIX}§6Du schaust nun §b{0}§6 zu.",
 
-        "lobby.flyWasEnabled": "{PREFIX}Fly wurde Aktiviert.",
-        "lobby.flyWasDisabled": "{PREFIX}Fly wurde Deaktiviert."
+        "lobby.flyWasEnabled": "{PREFIX}Fly wurde §aaktiviert§7.",
+        "lobby.flyWasDisabled": "{PREFIX}Fly wurde §cdeaktiviert§7.",
+
+		"vanish.enabled": "{PREFIX}Vanish wurde §aaktiviert§7.",
+		"vanish.enabled.other": "{PREFIX}Vanish wurde für §b{0} §aaktiviert§7.",
+		"vanish.disabled": "{PREFIX}Vanish wurde §cdeaktiviert§7.",
+		"vanish.disabled.other": "{PREFIX}Vanish wurde für §b{0} §cdeaktiviert§7."
 	}
 }

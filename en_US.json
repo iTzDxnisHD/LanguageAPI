@@ -52,19 +52,22 @@
 		"getdown.ui.notEnoughCoins": "§c{0}\n§c§oNot enough coins.",
 		"getdown.ui.price": "§a{0}\n§6§o{1} Coins",
 
-		"message.player_not_exists": "§c{0} was not found.",
-
 		"languageApi.reloaded": "{PREFIX}LanguageAPI was reloaded.",
 		"languageApi.wasUpdated": "{PREFIX}Language was updated to §f{0}§7.",
 		"languageApi.test": "{PREFIX}This is a test.",
 
 		"item.start": "§eStart",
-		"item.backToHub": "§4Back to Lobby",
+		"item.backToHub": "§4Back to Hub",
 		"item.stats": "§bStats",
 
 		"betterSpectator.newSpectating": "§6You are now spectating §b{0}§6.",
 
 		"lobby.flyWasEnabled": "{PREFIX}Fly was enabled.",
-		"lobby.flyWasDisabled": "{PREFIX}Fly was disabled."
+		"lobby.flyWasDisabled": "{PREFIX}Fly was disabled.",
+
+		"vanish.enabled": "{PREFIX}Vanish was §aenabled§7.",
+		"vanish.enabled.other": "{PREFIX}Vanish for §b{0}§7 was §aenabled§7.",
+		"vanish.disabled": "{PREFIX}Vanish was §cdisabled§7.",
+		"vanish.disabled.other": "{PREFIX}Vanish for §b{0}§7 was §cdisabled§7."
 	}
 }
